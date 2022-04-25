@@ -1,5 +1,4 @@
-body
-{
-    background-color: aqua;
-  
+@charset "utf-8";
+body {
+    background-color: beige;
 }
